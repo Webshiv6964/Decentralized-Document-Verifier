@@ -13,7 +13,7 @@ User → React Frontend → Python FastAPI → Pinata/IPFS → CID → Smart Con
 | Member | Role | Stack |
 |--------|------|-------|
 | Nikhil Sharma | Frontend | React.js, JavaScript, CSS |
-| Prince Patle | Backend | Python, FastAPI, Web3.py, Pinata |
+| Prince Patel | Backend | Python, FastAPI, Web3.py, Pinata |
 | Shiv Pratap Singh | Blockchain | Solidity, Hardhat, ethers.js |
 
 ## How It Works
